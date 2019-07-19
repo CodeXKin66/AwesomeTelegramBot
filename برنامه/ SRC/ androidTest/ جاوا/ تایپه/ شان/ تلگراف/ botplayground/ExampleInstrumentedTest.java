@@ -24,3 +24,4 @@ public class ExampleInstrumentedTest {
         assertEquals("taipei.sean.telegram.botplayground", appContext.getPackageName());
     }
 }
+
