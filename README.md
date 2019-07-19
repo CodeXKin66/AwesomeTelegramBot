@@ -35,3 +35,4 @@ If you would like to translate this app to your native language, please read [th
 
 ## License
 [Apache 2](LICENSE) License
+
